@@ -1,0 +1,6 @@
+**/venv
+**/Dataset
+**/wandb
+**/model_dir
+**/artifacts
+**/__pycache__
